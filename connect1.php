@@ -75,7 +75,7 @@ if ($_POST['submit'])
 
 
     else{
-          header("Location: login.php");
+          header("Location: index.php");
             }   
  }
  else{
